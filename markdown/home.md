@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><a href="#/lez4">Lezione 4</a></td>
-    <td>Lezione 5</td>
+    <td><a href="#/lez5">Lezione 5</a></td>
     <td><a href="#/lez6">Lezione 6</td>
   </tr>
   <tr>
